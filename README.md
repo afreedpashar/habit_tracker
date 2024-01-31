@@ -34,3 +34,7 @@ Easily expandable to include additional features or integrate with other habit-t
 Maintenance:
 
 Regularly update and enhance the project to ensure compatibility with Pixela API updates and user needs.
+
+PREREQUISITES
+Create a username
+Create a token make sure to have it more than 8 letters.
